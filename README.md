@@ -1,5 +1,5 @@
-# yo, I'm Iliya 👋 
 <img align="right" src="./assets/meow.gif" width="25">
+# yo, I'm Iliya 👋 
 
 ### Currently Learning
 - Python 🐍
