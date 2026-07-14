@@ -1,7 +1,7 @@
 # Hi, I'm Iliya 👋 
-<img align="right" src="./assets/meow.gif" width="25">
-🐍 Aspiring Python Developer
 
+🐍 Aspiring Python Developer
+<img align="right" src="./assets/meow.gif" width="25">
 I'm currently learning Python and building projects to improve my programming skills.
 
 ## Skills
