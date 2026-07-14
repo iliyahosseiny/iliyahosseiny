@@ -2,9 +2,6 @@
 
 🐍 Aspiring Python Developer
 <img align="right" src="./assets/meow.gif" width="25"><br>
-I'm currently learning Python and building projects to improve my programming skills.
-
-## Skills
 
 ### Currently Learning
 - Python 🐍
