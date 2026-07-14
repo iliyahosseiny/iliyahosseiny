@@ -1,7 +1,6 @@
 # yo, I'm Iliya 👋 
 
 ### Currently Learning
-<img align="right" src="./assets/meow.gif" width="25"> 
 - Python 🐍
 
 ### Programming Languages
@@ -18,7 +17,7 @@
 - Personal programming projects
 
 ## About Me
-
+<img align="right" src="./assets/meow.gif" width="30"> 
 I'm Iliya, a programming enthusiast who enjoys learning and creating new things with code.
 Currently, I'm focused on improving my Python skills and building practical projects.
 I have previous experience exploring C#, Java, HTML/CSS, and WordPress.
