@@ -1,7 +1,7 @@
-<img align="right" src="./assets/meow.gif" width="25"><br>
 # yo, I'm Iliya 👋 
 
 ### Currently Learning
+<img align="right" src="./assets/meow.gif" width="25"> 
 - Python 🐍
 
 ### Programming Languages
