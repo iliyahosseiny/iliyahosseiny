@@ -11,11 +11,6 @@
 - HTML / CSS (Basic)
 - WordPress (Intermediate)
 
-## Projects
-
-- Python Learning Journey
-- Personal programming projects
-
 ## About Me
 
 I'm Iliya, a programming enthusiast who enjoys learning and creating new things with code.
