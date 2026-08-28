@@ -2,6 +2,7 @@
 
 ### Currently Learning
 - Python 🐍
+- JavaScrip ☕️
 
 ### Programming Languages
 - C# (OOP basics, classes, inheritance)
