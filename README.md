@@ -1,1 +1,1 @@
-<img align="right" src="./assets/meow.gif" width="30">
+<img align="right" src="./assets/meow.gif" width="50">
